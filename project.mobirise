@@ -59,7 +59,7 @@
           },
           "title": "<b>陈 浩</b>",
           "text": "<b>实习项目，科研项目及个人项目介绍</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:hao.chen@tongji.edu.cn\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
